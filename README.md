@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Garvit Wasson!
 
-<!--
-**GarvitWasson/GarvitWasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏫 **First-Year Student** pursuing a Degree in Electrical Engineering(Power and Automation) at IIT Delhi.
+- 🚀 Passionate about exploring various Algorithms and fields of mathematics.
+- 🌱 I’m currently deep-diving into Data Structures and Python.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools (What I am learning)
+- C++, DSA
+- Git, Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus & Goals
+- 📚 Master foundational programming principles and ace my first-year coursework.
+- 💻 Build 3-4 personal mini-projects outside of my university lectures.
+- 🤝 Looking to collaborate on beginner-friendly open-source repositories.
+
+### 📫 How to reach me:
+- 💼 **LinkedIn:** https://www.linkedin.com/in/garvit-wasson-747478395/
+- 📧 **Email:** garvitwasson@gmail.com
+- 📧 **Institute Email:** ee3260491@ee.iitd.ac.in
